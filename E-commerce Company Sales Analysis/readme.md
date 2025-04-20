@@ -35,6 +35,73 @@ The **E-commerce Sales Analytics Dashboard** delivers actionable insights into c
 
 ## 💻 SQL Queries & Insights
 
+### 📊 Top 5 Products by Quantity Sold
+```sql
+SELECT 
+    p.ProductName, 
+    SUM(o.Quantity) AS total_quantity_sold
+FROM orders o
+JOIN products p ON o.ProductID = p.ProductID
+GROUP BY p.ProductName
+ORDER BY total_quantity_sold DESC
+LIMIT 5;
+```
+### 🏷️ Sales by Product Category (% of Total)
+```sql
+SELECT 
+    p.category,
+    SUM(o.totalsales) AS category_sales,
+    ROUND(SUM(o.totalsales) * 100.0 / (SELECT SUM(totalsales) FROM orders), 2) AS percentage_of_total_sales
+FROM orders o
+JOIN products p ON o.productid = p.productid
+GROUP BY p.category
+ORDER BY category_sales DESC;
+
+```
+### 🌐 Customers by Country
+```sql
+SELECT 
+    country, 
+    COUNT(customerid) AS number_of_customers
+FROM customers
+GROUP BY country
+ORDER BY number_of_customers DESC;
+
+
+```
+### 💵 Sales Revenue by Country (% of Total)
+```sql
+SELECT 
+    c.country, 
+    SUM(o.totalsales) AS total_sales_revenue,
+    ROUND(SUM(o.totalsales) * 100.0 / (SELECT SUM(totalsales) FROM orders), 2) AS percentage_of_total_sales
+FROM orders o
+JOIN customers c ON o.customerid = c.customerid
+GROUP BY c.country
+ORDER BY total_sales_revenue DESC;
+
+
+```
+### 👶 Revenue by Age Group
+```sql
+SELECT 
+    CASE
+        WHEN c.Age BETWEEN 18 AND 24 THEN '18-24'
+        WHEN c.Age BETWEEN 25 AND 34 THEN '25-34'
+        WHEN c.Age BETWEEN 35 AND 44 THEN '35-44'
+        WHEN c.Age BETWEEN 45 AND 54 THEN '45-54'
+        WHEN c.Age BETWEEN 55 AND 64 THEN '55-64'
+        WHEN c.Age >= 65 THEN '65+'
+        ELSE 'Unknown'
+    END AS age_group,
+    SUM(o.totalsales) AS total_sales_revenue
+FROM orders o
+JOIN customers c ON o.customerid = c.customerid
+GROUP BY age_group
+ORDER BY total_sales_revenue DESC;
+
+```
+
 ### 🧾 Top Customers (Last 6 Months)
 ```sql
 SELECT 
@@ -46,7 +113,6 @@ WHERE o.PurchaseDate >= DATE_SUB(CURDATE(), INTERVAL 6 MONTH)
 GROUP BY c.CustomerName
 ORDER BY total_spent DESC
 LIMIT 5;
-
 ```
 
 ## 💡 Recommendations
