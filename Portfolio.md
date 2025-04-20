@@ -2,8 +2,6 @@
 
 Hello, I’m **Ohenenana Sintim Poku Annor**, a passionate and analytical-minded **Data Analyst** with a strong academic background in **Economics** and professional training from **Generation Ghana's Data Analytics Program**. I specialize in transforming raw datasets into meaningful insights that drive strategic decision-making.
 
-Holding a **Bachelor of Arts in Economics** from **Kwame Nkrumah University of Science and Technology (KNUST)**, I bring a solid foundation in data interpretation, statistical reasoning, and economic modeling—skills that enhance my ability to uncover trends and inform business strategy.
-
 My expertise spans across **Power BI, SQL, Excel, and Python**, tools that I use to clean, analyze, and visualize data, crafting interactive dashboards and compelling data stories. Whether it’s uncovering trends in tourism data, predicting loan approvals, or evaluating business performance, I’m dedicated to delivering **insightful, actionable, and visually impactful solutions**.
 
 As someone who thrives on solving problems and communicating insights clearly, I enjoy bridging the gap between raw data and business strategy. My approach is data-driven and human-centered—ensuring that complex analytics are translated into stories that are understandable and valuable to stakeholders.
