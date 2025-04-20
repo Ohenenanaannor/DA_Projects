@@ -24,7 +24,7 @@ I craft detailed, data-driven reports that communicate findings clearly to both 
 
 ---
 
-## 📊 Featured Projects]  
+## 📊 Featured Projects  
 
 ### 1️⃣ **Tourism Analytics Dashboard**  
 **Description:** Analyzing tourism data to uncover trends in visitor numbers, revenue, and customer satisfaction across regions.  
@@ -32,9 +32,9 @@ I craft detailed, data-driven reports that communicate findings clearly to both 
 📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/Tourism_Analysis) 
 
 ### **Sales Analysis**
-**Description:**
-**Tools Used:**
-📌 [View Project]() 
+**Description:** Analyzing e-commerce sales data to uncover insights in customer behaviour, product performance and regional sales distribution
+**Tools Used:** Excel, MySQL
+📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/E-commerce%20Sales%20Analysis) 
 
 ### **Loan Prediction**
 **Description:**
