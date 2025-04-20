@@ -1,10 +1,13 @@
-# Group 2
 # Which customers made the most purchases in the last 6 momnths?
 # What percentages of total sales came from each product category?
 # Which customers placed others in multiple countries?
+# What percentage of total sales came from each product category?
+# How many customers are from each country?
+# What is the breakdown of total sales revenue by country?
+# Which age contributes the most to total revenue?
 
 # limitations:
-# 1. Dupicate fields in the productid and customerid
+# 1. Dupicate fields in the productid and customerid csv files
 # 2. Spaces in the column headers
 
 # Data cleaning process:
@@ -63,7 +66,7 @@ INNER JOIN Orders o ON c.CustomerID = o.CustomerID
 WHERE o.PurchaseDate >= DATE_SUB(CURDATE(), INTERVAL 6 MONTH)
 GROUP BY c.CustomerName
 ORDER BY total_spent DESC
-limit 10;
+limit 5;
 
 
 # what are the top 5 selling products by quantity sold?
@@ -77,15 +80,63 @@ ORDER BY total_quantity_sold DESC
 LIMIT 5;
 
 
-# Which customers placed orders in multiple countries?
+# What percentage of total sales came from each product category?
 SELECT 
-    c.CustomerName, 
-    COUNT(DISTINCT c.Country) AS country_count
-FROM Orders o
-INNER JOIN Customers c ON o.CustomerID = c.CustomerID
-GROUP BY c.CustomerName
-HAVING country_count > 1
-ORDER BY country_count DESC;
+    p.category,
+    SUM(o.totalsales) AS category_sales,
+    ROUND(SUM(o.totalsales) * 100.0 / (SELECT SUM(totalsales) FROM orders), 2) AS percentage_of_total_sales
+FROM 
+    orders o
+JOIN 
+    products p ON o.productid = p.productid
+GROUP BY 
+    p.category
+order by 
+	category_sales desc;
 
-# Jason Crosby Placed orders in two countries 
+# How many customers are from each country?
+SELECT 
+    country, 
+    COUNT(customerid) AS number_of_customers
+FROM 
+    customers
+GROUP BY 
+    country
+order by number_of_customers desc;
+
+# What is the breakdown of total sales revenue by country?
+SELECT 
+    c.country, 
+    SUM(o.totalsales) AS total_sales_revenue,
+    ROUND(SUM(o.totalsales) * 100.0 / (SELECT SUM(totalsales) FROM orders), 2) AS percentage_of_total_sales
+FROM 
+    orders o
+JOIN 
+    customers c ON o.customerid = c.customerid
+GROUP BY 
+    c.country
+ORDER BY 
+    total_sales_revenue DESC;
+
+
+# Which age contributes the most to total revenue?
+SELECT 
+    CASE
+        WHEN c.Age BETWEEN 18 AND 24 THEN '18-24'
+        WHEN c.Age BETWEEN 25 AND 34 THEN '25-34'
+        WHEN c.Age BETWEEN 35 AND 44 THEN '35-44'
+        WHEN c.Age BETWEEN 45 AND 54 THEN '45-54'
+        WHEN c.Age BETWEEN 55 AND 64 THEN '55-64'
+        WHEN c.Age >= 65 THEN '65+'
+        ELSE 'Unknown'
+    END AS age_group,
+    SUM(o.totalsales) AS total_sales_revenue
+FROM 
+    orders o
+JOIN 
+    customers c ON o.customerid = c.customerid
+GROUP BY 
+    age_group
+ORDER BY 
+    total_sales_revenue DESC;
 

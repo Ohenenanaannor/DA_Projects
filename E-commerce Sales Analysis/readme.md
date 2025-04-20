@@ -46,6 +46,8 @@ GROUP BY p.ProductName
 ORDER BY total_quantity_sold DESC
 LIMIT 5;
 ```
+![Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/E-commerce%20Sales%20Analysis/images/Picture2.png)
+
 ### 🏷️ Sales by Product Category (% of Total)
 ```sql
 SELECT 
@@ -58,6 +60,8 @@ GROUP BY p.category
 ORDER BY category_sales DESC;
 
 ```
+![Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/E-commerce%20Sales%20Analysis/images/Picture3.png)
+
 ### 🌐 Customers by Country
 ```sql
 SELECT 
@@ -66,9 +70,9 @@ SELECT
 FROM customers
 GROUP BY country
 ORDER BY number_of_customers DESC;
-
-
 ```
+![Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/E-commerce%20Sales%20Analysis/images/Picture4.png)
+
 ### 💵 Sales Revenue by Country (% of Total)
 ```sql
 SELECT 
@@ -79,9 +83,9 @@ FROM orders o
 JOIN customers c ON o.customerid = c.customerid
 GROUP BY c.country
 ORDER BY total_sales_revenue DESC;
-
-
 ```
+![Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/E-commerce%20Sales%20Analysis/images/Picture5.png)
+
 ### 👶 Revenue by Age Group
 ```sql
 SELECT 
@@ -101,6 +105,7 @@ GROUP BY age_group
 ORDER BY total_sales_revenue DESC;
 
 ```
+![Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/E-commerce%20Sales%20Analysis/images/Picture6.png)
 
 ### 🧾 Top Customers (Last 6 Months)
 ```sql
