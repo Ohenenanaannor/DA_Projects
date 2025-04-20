@@ -43,13 +43,13 @@ Kwame Nkrumah University of Science and Technology
 BA Economics (2022)
 
 ## Certificates
-•	Generation Data Analytics Program|2025 
-•	Forage Accenture Data Analytics and Visualization Job Simulation| 2025
-•	Data Analytics Essentials - CISCO Networking Academy |2024
-•	Essentials of Data Visualization using MS Excel – Uniathena |2024
-•	Predictive Analytics Workshop with Python – Uniathena | 2024
-•	Aptra Vision v4 Training – Stanbic Bank |2023
-•	Data Analysis and Scientific writing with Stata (certificate) – KNUST, Economics Department |2021
+🔹	Generation Data Analytics Program|2025 
+🔹  Forage Accenture Data Analytics and Visualization Job Simulation| 2025
+🔹	Data Analytics Essentials - CISCO Networking Academy |2024
+🔹	Essentials of Data Visualization using MS Excel – Uniathena |2024
+🔹	Predictive Analytics Workshop with Python – Uniathena | 2024
+🔹	Aptra Vision v4 Training – Stanbic Bank |2023
+🔹	Data Analysis and Scientific writing with Stata (certificate) – KNUST, Economics Department |2021
 
 
 ## 📫 Let's Connect!  
