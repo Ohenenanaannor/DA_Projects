@@ -2,7 +2,7 @@
 
 Hello, I’m **Ohenenana Sintim Poku Annor**, a passionate and analytical-minded **Data Analyst** with a strong academic background in **Economics** and professional training from **Generation Ghana's Data Analytics Program**. I specialize in transforming raw datasets into meaningful insights that drive strategic decision-making.
 
-My expertise spans across **Power BI, SQL, Excel, and Python**, tools that I use to clean, analyze, and visualize data, crafting interactive dashboards and compelling data stories. Whether it’s uncovering trends in tourism data, predicting loan approvals, or evaluating business performance, I’m dedicated to delivering **insightful, actionable, and visually impactful solutions**.
+My expertise spans across **Power BI, SQL, Excel, and Python**, tools that I use to clean, analyze, and visualize data, crafting interactive dashboards and compelling data stories. Whether it’s uncovering trends, building models, or evaluating business performance, I’m dedicated to delivering **insightful, actionable, and visually impactful solutions**.
 
 As someone who thrives on solving problems and communicating insights clearly, I enjoy bridging the gap between raw data and business strategy. My approach is data-driven and human-centered—ensuring that complex analytics are translated into stories that are understandable and valuable to stakeholders.
 
@@ -29,7 +29,7 @@ I craft detailed, data-driven reports that communicate findings clearly to both 
 ### 1️⃣ **Tourism Analytics Dashboard**  
 **Description:** Analyzing tourism data to uncover trends in visitor numbers, revenue, and customer satisfaction across regions.  
 **Tools Used:** Power BI, Excel  
-📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/Toursim_Analytics_Power_BI) 
+📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/Tourism_Analysis) 
 
 ### **Sales Analysis**
 **Description:**
