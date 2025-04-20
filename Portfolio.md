@@ -24,7 +24,7 @@ I craft detailed, data-driven reports that communicate findings clearly to both 
 
 ---
 
-## 📊 Featured Projects  
+## 📊 Featured Projects]  
 
 ### 1️⃣ **Tourism Analytics Dashboard**  
 **Description:** Analyzing tourism data to uncover trends in visitor numbers, revenue, and customer satisfaction across regions.  
@@ -72,9 +72,10 @@ BA Economics (2022)
 ## 📫 Let's Connect!  
 If you're interested in **data analytics, business intelligence, or collaboration**, feel free to reach out!  
 
-📌 **LinkedIn:** [LinkedIn Profile]( www.linkedin.com/in/ohenenana-annor-sintim-poku) 
-📌 **GitHub:** [GitHub Profile](https://github.com/Ohenenanaannor)
-📌 **Email:** [Email](ohenenanaannor2000@gmail.com)   
+📌 **LinkedIn:** [Profile](https://www.linkedin.com/in/ohenenana-annor-sintim-poku)
+📌 **GitHub:** [Profile](https://github.com/Ohenenanaannor)
+📌 **Email:** [ohenenanaannor2000@gmail.com](mailto:ohenenanaannor2000@gmail.com)
+  
 
 ---
 
