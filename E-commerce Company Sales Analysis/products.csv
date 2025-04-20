@@ -1,0 +1,501 @@
+Product ID,Product Name,Category,Price
+PROD100,Fiction,Books,297.2
+PROD101,Bicycle,Sports,141.62
+PROD102,Shoes,Apparel,84.85
+PROD103,Bicycle,Sports,361.91
+PROD104,Headphones,Electronics,165.02
+PROD105,Dress,Apparel,61.48
+PROD106,Headphones,Electronics,317.94
+PROD107,Jeans,Apparel,446.99
+PROD108,Dumbbells,Sports,190.34
+PROD109,Jeans,Apparel,292.17
+PROD110,Jeans,Apparel,481.05
+PROD111,Foundation,Beauty,398.58
+PROD112,Laptop,Electronics,207.11
+PROD113,Yoga Mat,Sports,228.96
+PROD114,Bicycle,Sports,53.21
+PROD115,Bicycle,Sports,26.33
+PROD116,Blender,Home & Kitchen,70.65
+PROD117,Running Shoes,Sports,300.49
+PROD118,Perfume,Beauty,164.73
+PROD119,Biography,Books,364.51
+PROD120,Laptop,Electronics,473.96
+PROD121,Yoga Mat,Sports,120.39
+PROD122,Dumbbells,Sports,227.37
+PROD123,Shampoo,Beauty,446.82
+PROD124,Dumbbells,Sports,25.85
+PROD125,Shampoo,Beauty,75.82
+PROD126,Bicycle,Sports,454
+PROD127,Laptop,Electronics,45.36
+PROD128,Microwave,Home & Kitchen,294.02
+PROD129,Jeans,Apparel,157.7
+PROD130,Running Shoes,Sports,245.62
+PROD131,Tennis Racket,Sports,51.49
+PROD132,Shampoo,Beauty,376.82
+PROD133,Shoes,Apparel,353.38
+PROD134,Blender,Home & Kitchen,31.02
+PROD135,Smartphone,Electronics,228.91
+PROD136,Jeans,Apparel,397.29
+PROD137,Yoga Mat,Sports,249.34
+PROD138,Running Shoes,Sports,131.1
+PROD139,Mystery,Books,446.16
+PROD140,Jeans,Apparel,347.84
+PROD141,Science Fiction,Books,216.28
+PROD142,Foundation,Beauty,198.18
+PROD143,Laptop,Electronics,63.97
+PROD144,Lipstick,Beauty,337.58
+PROD145,Biography,Books,448.12
+PROD146,Tennis Racket,Sports,210.03
+PROD147,Dress,Apparel,258.12
+PROD148,Perfume,Beauty,470.96
+PROD149,Tablet,Electronics,346.89
+PROD150,Vacuum Cleaner,Home & Kitchen,238
+PROD151,Lipstick,Beauty,490.16
+PROD152,T-shirt,Apparel,200.16
+PROD153,Perfume,Beauty,342.88
+PROD154,Jacket,Apparel,453.65
+PROD155,Jeans,Apparel,293.63
+PROD156,Lipstick,Beauty,450.51
+PROD157,Mystery,Books,474.92
+PROD158,Coffee Maker,Home & Kitchen,155.67
+PROD159,Toaster,Home & Kitchen,435.7
+PROD160,Jacket,Apparel,406.1
+PROD161,Bicycle,Sports,214.84
+PROD162,Fiction,Books,380.29
+PROD163,Moisturizer,Beauty,24.62
+PROD164,Blender,Home & Kitchen,43.68
+PROD165,Running Shoes,Sports,53.95
+PROD166,Microwave,Home & Kitchen,465.86
+PROD167,Science Fiction,Books,468.48
+PROD168,Jacket,Apparel,277.03
+PROD169,Vacuum Cleaner,Home & Kitchen,32.07
+PROD170,Smartphone,Electronics,218.38
+PROD171,Science Fiction,Books,188.93
+PROD172,Jacket,Apparel,173.8
+PROD173,Jeans,Apparel,226.74
+PROD174,Tennis Racket,Sports,283.61
+PROD175,Yoga Mat,Sports,332.23
+PROD176,Microwave,Home & Kitchen,191.1
+PROD177,Microwave,Home & Kitchen,70.85
+PROD178,Yoga Mat,Sports,94.1
+PROD179,Dress,Apparel,460.68
+PROD180,Dress,Apparel,256.42
+PROD181,Dress,Apparel,497.52
+PROD182,Shampoo,Beauty,297.66
+PROD183,Bicycle,Sports,109.1
+PROD184,Vacuum Cleaner,Home & Kitchen,374.84
+PROD185,Jacket,Apparel,35.45
+PROD186,Dumbbells,Sports,403.27
+PROD187,Non-fiction,Books,408.87
+PROD188,Non-fiction,Books,15.48
+PROD189,Jacket,Apparel,224.53
+PROD190,Coffee Maker,Home & Kitchen,419.5
+PROD191,Foundation,Beauty,300.01
+PROD192,Jeans,Apparel,486.57
+PROD193,Jeans,Apparel,108.9
+PROD194,Fiction,Books,459.24
+PROD195,Lipstick,Beauty,159.64
+PROD196,Shoes,Apparel,148.66
+PROD197,Headphones,Electronics,301.28
+PROD198,Dress,Apparel,368.91
+PROD199,Laptop,Electronics,326.4
+PROD200,Perfume,Beauty,230.4
+PROD201,Foundation,Beauty,61.72
+PROD202,Headphones,Electronics,375.41
+PROD203,Biography,Books,300.99
+PROD204,Perfume,Beauty,374.47
+PROD205,Jeans,Apparel,372.13
+PROD206,Shampoo,Beauty,36.64
+PROD207,Vacuum Cleaner,Home & Kitchen,383.11
+PROD208,Blender,Home & Kitchen,447.23
+PROD209,Perfume,Beauty,400.44
+PROD210,Non-fiction,Books,35.28
+PROD211,Shampoo,Beauty,21.66
+PROD212,Shoes,Apparel,420.96
+PROD213,Dumbbells,Sports,90.72
+PROD214,Moisturizer,Beauty,17.62
+PROD215,Non-fiction,Books,223.68
+PROD216,Yoga Mat,Sports,300.01
+PROD217,Dumbbells,Sports,489.36
+PROD218,Coffee Maker,Home & Kitchen,371.04
+PROD219,Yoga Mat,Sports,172.01
+PROD220,Tablet,Electronics,193.4
+PROD221,Fiction,Books,404.33
+PROD222,Fiction,Books,65.85
+PROD223,Lipstick,Beauty,436.31
+PROD224,Dress,Apparel,344.11
+PROD225,Tablet,Electronics,439.41
+PROD226,Perfume,Beauty,20.97
+PROD227,Jacket,Apparel,281.5
+PROD228,Science Fiction,Books,211.83
+PROD229,Running Shoes,Sports,122.14
+PROD230,Smartwatch,Electronics,122.41
+PROD231,Dumbbells,Sports,93.91
+PROD232,Laptop,Electronics,37.36
+PROD233,Dress,Apparel,445.88
+PROD234,Foundation,Beauty,288.5
+PROD235,Coffee Maker,Home & Kitchen,349.11
+PROD236,Coffee Maker,Home & Kitchen,377.75
+PROD237,Shoes,Apparel,409.21
+PROD238,Dress,Apparel,29.25
+PROD239,Lipstick,Beauty,343.39
+PROD240,Yoga Mat,Sports,490.09
+PROD241,Tablet,Electronics,54.99
+PROD242,Moisturizer,Beauty,23.08
+PROD243,Shampoo,Beauty,262.5
+PROD244,Perfume,Beauty,388.85
+PROD245,Running Shoes,Sports,298.56
+PROD246,Tablet,Electronics,326.73
+PROD247,Mystery,Books,459.4
+PROD248,Moisturizer,Beauty,25.65
+PROD249,Lipstick,Beauty,354.21
+PROD250,Microwave,Home & Kitchen,410.46
+PROD251,Dress,Apparel,362.54
+PROD252,Non-fiction,Books,447.59
+PROD253,Jeans,Apparel,303.34
+PROD254,Mystery,Books,457.51
+PROD255,Coffee Maker,Home & Kitchen,126.97
+PROD256,Non-fiction,Books,245.7
+PROD257,Tablet,Electronics,140.57
+PROD258,Non-fiction,Books,362.62
+PROD259,Mystery,Books,313.21
+PROD260,Non-fiction,Books,100.61
+PROD261,Jacket,Apparel,479.39
+PROD262,Laptop,Electronics,138.36
+PROD263,Microwave,Home & Kitchen,71.28
+PROD264,Biography,Books,434.6
+PROD265,Science Fiction,Books,160.93
+PROD266,Microwave,Home & Kitchen,152.89
+PROD267,Foundation,Beauty,407.29
+PROD268,Tennis Racket,Sports,475.49
+PROD269,Laptop,Electronics,324.33
+PROD270,Laptop,Electronics,450.79
+PROD271,Vacuum Cleaner,Home & Kitchen,411.93
+PROD272,T-shirt,Apparel,78.31
+PROD273,Lipstick,Beauty,404.08
+PROD274,Running Shoes,Sports,338.81
+PROD275,Toaster,Home & Kitchen,407.25
+PROD276,Mystery,Books,411.84
+PROD277,Fiction,Books,240.91
+PROD278,Tablet,Electronics,166.77
+PROD279,Foundation,Beauty,53.24
+PROD280,Non-fiction,Books,94.26
+PROD281,T-shirt,Apparel,489.21
+PROD282,Dumbbells,Sports,415.25
+PROD283,Dress,Apparel,311.75
+PROD284,Microwave,Home & Kitchen,390.72
+PROD285,Shoes,Apparel,178.72
+PROD286,Shampoo,Beauty,439.03
+PROD287,Jeans,Apparel,10.03
+PROD288,Dress,Apparel,361.74
+PROD289,Tablet,Electronics,376.75
+PROD290,Bicycle,Sports,332.54
+PROD291,Non-fiction,Books,59.74
+PROD292,Jacket,Apparel,431.31
+PROD293,Yoga Mat,Sports,192.55
+PROD294,Bicycle,Sports,283.11
+PROD295,Bicycle,Sports,410.62
+PROD296,Biography,Books,58.25
+PROD297,Non-fiction,Books,41.93
+PROD298,Jacket,Apparel,51.91
+PROD299,Smartphone,Electronics,280.71
+PROD300,Running Shoes,Sports,434.98
+PROD301,Blender,Home & Kitchen,271.83
+PROD302,Laptop,Electronics,37.96
+PROD303,Jeans,Apparel,346.4
+PROD304,Biography,Books,399.91
+PROD305,Smartphone,Electronics,104.46
+PROD306,Headphones,Electronics,433.64
+PROD307,Headphones,Electronics,264.5
+PROD308,Perfume,Beauty,469.08
+PROD309,Moisturizer,Beauty,320.76
+PROD310,Smartphone,Electronics,85.35
+PROD311,Lipstick,Beauty,258.61
+PROD312,Mystery,Books,302.95
+PROD313,Toaster,Home & Kitchen,441.09
+PROD314,Blender,Home & Kitchen,21.11
+PROD315,Non-fiction,Books,312.71
+PROD316,Science Fiction,Books,134.91
+PROD317,Smartphone,Electronics,265.89
+PROD318,Moisturizer,Beauty,40.21
+PROD319,Blender,Home & Kitchen,406.98
+PROD320,Jeans,Apparel,143.13
+PROD321,Non-fiction,Books,335.15
+PROD322,Perfume,Beauty,80.95
+PROD323,Tennis Racket,Sports,191.62
+PROD324,Shampoo,Beauty,498.22
+PROD325,Blender,Home & Kitchen,392.6
+PROD326,T-shirt,Apparel,183.27
+PROD327,Science Fiction,Books,101.4
+PROD328,Jacket,Apparel,39.75
+PROD329,Coffee Maker,Home & Kitchen,71.87
+PROD330,Moisturizer,Beauty,203.91
+PROD331,Lipstick,Beauty,12.87
+PROD332,Shoes,Apparel,99.51
+PROD333,Fiction,Books,460.85
+PROD334,Yoga Mat,Sports,478.77
+PROD335,Toaster,Home & Kitchen,431.15
+PROD336,Dress,Apparel,326.16
+PROD337,Yoga Mat,Sports,464.22
+PROD338,Tennis Racket,Sports,425.25
+PROD339,Moisturizer,Beauty,115.41
+PROD340,Smartwatch,Electronics,26.28
+PROD341,Running Shoes,Sports,363.08
+PROD342,Laptop,Electronics,225.14
+PROD343,Smartwatch,Electronics,240.57
+PROD344,Coffee Maker,Home & Kitchen,105.94
+PROD345,Shoes,Apparel,30.02
+PROD346,Non-fiction,Books,498.17
+PROD347,Toaster,Home & Kitchen,392.58
+PROD348,Microwave,Home & Kitchen,39.95
+PROD349,Moisturizer,Beauty,246.87
+PROD350,Running Shoes,Sports,280.04
+PROD351,Dumbbells,Sports,94.99
+PROD352,Dumbbells,Sports,320.87
+PROD353,Dumbbells,Sports,412.97
+PROD354,Mystery,Books,482.02
+PROD355,Microwave,Home & Kitchen,143.08
+PROD356,Toaster,Home & Kitchen,73.39
+PROD357,Microwave,Home & Kitchen,365.84
+PROD358,Vacuum Cleaner,Home & Kitchen,178.23
+PROD359,Headphones,Electronics,337.24
+PROD360,Fiction,Books,190
+PROD361,Perfume,Beauty,204.91
+PROD362,Shampoo,Beauty,221.84
+PROD363,Tablet,Electronics,10.16
+PROD364,Headphones,Electronics,233.82
+PROD365,Smartwatch,Electronics,463.95
+PROD366,Dumbbells,Sports,419.72
+PROD367,Shampoo,Beauty,279.09
+PROD368,Dumbbells,Sports,482.74
+PROD369,Tablet,Electronics,148.95
+PROD370,Non-fiction,Books,496.47
+PROD371,Foundation,Beauty,393.92
+PROD372,Vacuum Cleaner,Home & Kitchen,267.17
+PROD373,Perfume,Beauty,467.97
+PROD374,Science Fiction,Books,313.25
+PROD375,Perfume,Beauty,461.76
+PROD376,Headphones,Electronics,443.55
+PROD377,T-shirt,Apparel,445.87
+PROD378,Tennis Racket,Sports,17.98
+PROD379,Mystery,Books,477.23
+PROD380,Laptop,Electronics,391.31
+PROD381,Fiction,Books,406.26
+PROD382,Non-fiction,Books,498.06
+PROD383,Running Shoes,Sports,477.84
+PROD384,Bicycle,Sports,183.66
+PROD385,Dress,Apparel,460.5
+PROD386,Toaster,Home & Kitchen,45.53
+PROD387,Vacuum Cleaner,Home & Kitchen,423.11
+PROD388,Smartwatch,Electronics,459.79
+PROD389,Jeans,Apparel,360.26
+PROD390,Vacuum Cleaner,Home & Kitchen,280.31
+PROD391,Smartphone,Electronics,256.98
+PROD392,T-shirt,Apparel,194.15
+PROD393,Foundation,Beauty,125.32
+PROD394,Dumbbells,Sports,173.78
+PROD395,Smartwatch,Electronics,465.35
+PROD396,Microwave,Home & Kitchen,349.02
+PROD397,Moisturizer,Beauty,42.72
+PROD398,Running Shoes,Sports,343.66
+PROD399,Jeans,Apparel,294.19
+PROD400,Smartphone,Electronics,499.2
+PROD401,Headphones,Electronics,457.19
+PROD402,Vacuum Cleaner,Home & Kitchen,342.31
+PROD403,Toaster,Home & Kitchen,265.17
+PROD404,Mystery,Books,91.58
+PROD405,Non-fiction,Books,60.99
+PROD406,Fiction,Books,297.52
+PROD407,Moisturizer,Beauty,323.95
+PROD408,Shampoo,Beauty,158.44
+PROD409,Bicycle,Sports,198.74
+PROD410,Fiction,Books,467.24
+PROD411,Dumbbells,Sports,391.36
+PROD412,Perfume,Beauty,63.43
+PROD413,Bicycle,Sports,492.04
+PROD414,Foundation,Beauty,110.63
+PROD415,Foundation,Beauty,140.02
+PROD416,Yoga Mat,Sports,357.08
+PROD417,Headphones,Electronics,418.86
+PROD418,Dress,Apparel,434.74
+PROD419,Toaster,Home & Kitchen,420.41
+PROD420,Headphones,Electronics,361.63
+PROD421,Science Fiction,Books,353.21
+PROD422,Moisturizer,Beauty,26.68
+PROD423,Shoes,Apparel,367.07
+PROD424,Smartphone,Electronics,339
+PROD425,Shampoo,Beauty,376.29
+PROD426,Yoga Mat,Sports,488.9
+PROD427,Coffee Maker,Home & Kitchen,39.3
+PROD428,T-shirt,Apparel,201.22
+PROD429,Foundation,Beauty,253.85
+PROD430,Running Shoes,Sports,354.98
+PROD431,Perfume,Beauty,371.81
+PROD432,Jacket,Apparel,496.02
+PROD433,Smartphone,Electronics,34.96
+PROD434,Coffee Maker,Home & Kitchen,363.61
+PROD435,Dress,Apparel,387.68
+PROD436,Jeans,Apparel,277.08
+PROD437,Jacket,Apparel,387.93
+PROD438,Yoga Mat,Sports,405.48
+PROD439,Non-fiction,Books,419.28
+PROD440,Smartphone,Electronics,396.29
+PROD441,Dumbbells,Sports,281.73
+PROD442,Smartphone,Electronics,419.26
+PROD443,Microwave,Home & Kitchen,197.84
+PROD444,Laptop,Electronics,438.43
+PROD445,Non-fiction,Books,331.38
+PROD446,Science Fiction,Books,365.41
+PROD447,Shampoo,Beauty,257.51
+PROD448,Tablet,Electronics,44.49
+PROD449,Biography,Books,302.19
+PROD450,Running Shoes,Sports,460.5
+PROD451,Coffee Maker,Home & Kitchen,385.39
+PROD452,T-shirt,Apparel,46.67
+PROD453,Shampoo,Beauty,154.88
+PROD454,Mystery,Books,112.98
+PROD455,Smartwatch,Electronics,240.95
+PROD456,T-shirt,Apparel,376.68
+PROD457,T-shirt,Apparel,499.25
+PROD458,Shampoo,Beauty,463.84
+PROD459,Toaster,Home & Kitchen,123.96
+PROD460,Non-fiction,Books,121.07
+PROD461,Shoes,Apparel,483.73
+PROD462,Perfume,Beauty,372.31
+PROD463,Tablet,Electronics,476.62
+PROD464,T-shirt,Apparel,475.64
+PROD465,Shoes,Apparel,355.77
+PROD466,Shoes,Apparel,243.4
+PROD467,Fiction,Books,116.75
+PROD468,Microwave,Home & Kitchen,366.76
+PROD469,Dress,Apparel,148.29
+PROD470,Running Shoes,Sports,144.4
+PROD471,Blender,Home & Kitchen,106.97
+PROD472,Jeans,Apparel,487.71
+PROD473,Science Fiction,Books,288.86
+PROD474,Headphones,Electronics,160.08
+PROD475,Non-fiction,Books,82.15
+PROD476,Mystery,Books,125.93
+PROD477,Coffee Maker,Home & Kitchen,499.19
+PROD478,Shampoo,Beauty,77.34
+PROD479,Vacuum Cleaner,Home & Kitchen,248.29
+PROD480,T-shirt,Apparel,105.54
+PROD481,Running Shoes,Sports,487.9
+PROD482,Dumbbells,Sports,363.24
+PROD483,Smartphone,Electronics,117.79
+PROD484,Dress,Apparel,83.97
+PROD485,Laptop,Electronics,448.17
+PROD486,Blender,Home & Kitchen,255.38
+PROD487,Lipstick,Beauty,435.56
+PROD488,Blender,Home & Kitchen,319.26
+PROD489,Lipstick,Beauty,301.82
+PROD490,Mystery,Books,101.14
+PROD491,Non-fiction,Books,147.29
+PROD492,Bicycle,Sports,58.65
+PROD493,Shampoo,Beauty,69.59
+PROD494,Non-fiction,Books,72.26
+PROD495,Microwave,Home & Kitchen,290.36
+PROD496,Biography,Books,360.45
+PROD497,Bicycle,Sports,212.77
+PROD498,Moisturizer,Beauty,361.5
+PROD499,Perfume,Beauty,472.4
+PROD500,Science Fiction,Books,137.75
+PROD501,Laptop,Electronics,33.36
+PROD502,Laptop,Electronics,415.15
+PROD503,Fiction,Books,266.89
+PROD504,Shampoo,Beauty,339
+PROD505,Microwave,Home & Kitchen,94.42
+PROD506,Science Fiction,Books,464.89
+PROD507,Fiction,Books,205.08
+PROD508,Non-fiction,Books,421.89
+PROD509,Vacuum Cleaner,Home & Kitchen,474.54
+PROD510,Smartwatch,Electronics,133.06
+PROD511,Laptop,Electronics,284.3
+PROD512,Coffee Maker,Home & Kitchen,57.08
+PROD513,Tennis Racket,Sports,57.37
+PROD514,Tablet,Electronics,184.84
+PROD515,Tennis Racket,Sports,456.87
+PROD516,Coffee Maker,Home & Kitchen,426.89
+PROD517,Lipstick,Beauty,254.63
+PROD518,Tennis Racket,Sports,349.33
+PROD519,Microwave,Home & Kitchen,435.07
+PROD520,Smartwatch,Electronics,54.18
+PROD521,Fiction,Books,237.14
+PROD522,Blender,Home & Kitchen,120.2
+PROD523,Moisturizer,Beauty,172.29
+PROD524,Running Shoes,Sports,438.31
+PROD525,Fiction,Books,183.08
+PROD526,Fiction,Books,319.75
+PROD527,Microwave,Home & Kitchen,188.22
+PROD528,Shampoo,Beauty,314.2
+PROD529,Dress,Apparel,353.11
+PROD530,Tennis Racket,Sports,455.92
+PROD531,Jacket,Apparel,295.24
+PROD532,Lipstick,Beauty,492.8
+PROD533,Shoes,Apparel,199.15
+PROD534,Bicycle,Sports,268.21
+PROD535,Mystery,Books,84.83
+PROD536,Coffee Maker,Home & Kitchen,322.86
+PROD537,Headphones,Electronics,168.15
+PROD538,Laptop,Electronics,233.94
+PROD539,Science Fiction,Books,132
+PROD540,Vacuum Cleaner,Home & Kitchen,180.65
+PROD541,Smartwatch,Electronics,380.32
+PROD542,Dress,Apparel,312.14
+PROD543,Vacuum Cleaner,Home & Kitchen,220.32
+PROD544,Smartphone,Electronics,155.95
+PROD545,Moisturizer,Beauty,92.35
+PROD546,Moisturizer,Beauty,186.6
+PROD547,Vacuum Cleaner,Home & Kitchen,273.27
+PROD548,Smartphone,Electronics,488.04
+PROD549,Headphones,Electronics,201.89
+PROD550,Shampoo,Beauty,174.27
+PROD551,Foundation,Beauty,27.91
+PROD552,Non-fiction,Books,470.58
+PROD553,Mystery,Books,361.8
+PROD554,Shoes,Apparel,418.11
+PROD555,Perfume,Beauty,161.52
+PROD556,Fiction,Books,132.54
+PROD557,Yoga Mat,Sports,457.96
+PROD558,Jeans,Apparel,339.27
+PROD559,Vacuum Cleaner,Home & Kitchen,308.28
+PROD560,T-shirt,Apparel,391.55
+PROD561,Running Shoes,Sports,132.86
+PROD562,T-shirt,Apparel,217.8
+PROD563,Fiction,Books,200.86
+PROD564,Jacket,Apparel,373.59
+PROD565,Science Fiction,Books,99.96
+PROD566,Moisturizer,Beauty,21.91
+PROD567,Shampoo,Beauty,296.01
+PROD568,Foundation,Beauty,204.46
+PROD569,Toaster,Home & Kitchen,439.74
+PROD570,Running Shoes,Sports,151.42
+PROD571,Microwave,Home & Kitchen,275.55
+PROD572,Tennis Racket,Sports,22.08
+PROD573,Bicycle,Sports,291.3
+PROD574,Smartwatch,Electronics,285.64
+PROD575,Vacuum Cleaner,Home & Kitchen,205.01
+PROD576,Mystery,Books,486.52
+PROD577,Headphones,Electronics,262.29
+PROD578,Bicycle,Sports,428.22
+PROD579,Running Shoes,Sports,65.94
+PROD580,Smartwatch,Electronics,369.99
+PROD581,Dress,Apparel,284.96
+PROD582,Smartwatch,Electronics,278.97
+PROD583,Fiction,Books,484.23
+PROD584,Toaster,Home & Kitchen,155.38
+PROD585,Microwave,Home & Kitchen,472.12
+PROD586,Jacket,Apparel,454.23
+PROD587,Non-fiction,Books,61.27
+PROD588,Yoga Mat,Sports,162.43
+PROD589,Jacket,Apparel,483.3
+PROD590,Microwave,Home & Kitchen,274.18
+PROD591,Foundation,Beauty,435.46
+PROD592,Dumbbells,Sports,154.94
+PROD593,Microwave,Home & Kitchen,51.32
+PROD594,Toaster,Home & Kitchen,17.28
+PROD595,Running Shoes,Sports,60.86
+PROD596,T-shirt,Apparel,252.66
+PROD597,Fiction,Books,328.89
+PROD598,Running Shoes,Sports,232.99
+PROD599,Toaster,Home & Kitchen,256.1
