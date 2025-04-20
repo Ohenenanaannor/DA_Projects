@@ -51,7 +51,7 @@ The dashboard utilizes **sample tourism data** to replicate real-world scenarios
 ---
 
 ## Dashboard Overview 
-![Dashboard]("C:\Users\HP\Documents\My_DA_Journey\Toursim_Analysis\Images\Dashboard.png")
+![Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/Tourism_Analysis/Images/Dashboard.png)
 
 ## 📎 How to Use This Report
 1. Download the Power BI report or open it directly.  
