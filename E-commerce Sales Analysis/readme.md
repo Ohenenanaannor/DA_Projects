@@ -114,6 +114,7 @@ GROUP BY c.CustomerName
 ORDER BY total_spent DESC
 LIMIT 5;
 ```
+![Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/E-commerce%20Sales%20Analysis/images/Picture1.png)
 
 ## 💡 Recommendations
 - 🎁 Reward top customers with loyalty programs  
