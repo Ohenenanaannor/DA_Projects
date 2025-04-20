@@ -1,9 +1,28 @@
 # 👋 Welcome to My Data Analytics Portfolio!  
 
-## 🚀 About Me  
-Hello! I'm Ohenenana Sintim Poku Annor, a passionate **Data Analyst** trained under **Generation Ghana**, specializing in **data visualization, storytelling, and insights-driven decision-making**.  
+Hello, I’m **Ohenenana Sintim Poku Annor**, a passionate and analytical-minded **Data Analyst** with a strong academic background in **Economics** and professional training from **Generation Ghana's Data Analytics Program**. I specialize in transforming raw datasets into meaningful insights that drive strategic decision-making.
 
-I leverage tools like **Power BI, SQL, Excel, and Python** to transform raw data into actionable insights that drive business success. This repository showcases my **projects, dashboards, and data analytics work**.  
+Holding a **Bachelor of Arts in Economics** from **Kwame Nkrumah University of Science and Technology (KNUST)**, I bring a solid foundation in data interpretation, statistical reasoning, and economic modeling—skills that enhance my ability to uncover trends and inform business strategy.
+
+My expertise spans across **Power BI, SQL, Excel, and Python**, tools that I use to clean, analyze, and visualize data, crafting interactive dashboards and compelling data stories. Whether it’s uncovering trends in tourism data, predicting loan approvals, or evaluating business performance, I’m dedicated to delivering **insightful, actionable, and visually impactful solutions**.
+
+As someone who thrives on solving problems and communicating insights clearly, I enjoy bridging the gap between raw data and business strategy. My approach is data-driven and human-centered—ensuring that complex analytics are translated into stories that are understandable and valuable to stakeholders.
+
+---
+
+## 💼 What I Do  
+
+### 📌 Data Cleaning & Preparation  
+With hands-on experience in **Python, SQL, Excel**, and **Power BI**, I specialize in transforming messy datasets into clean, structured, and analysis-ready formats. I handle missing data, duplicates, outliers, and inconsistent entries using tools like **Pandas**, **NumPy**, and **Excel functions**, ensuring data reliability.
+
+### 📌 Data Visualization & Storytelling  
+I create **interactive dashboards** and **clear visual reports** using **Power BI** and **Excel** to make data understandable and engaging. My visualizations are tailored to highlight key trends, KPIs, and actionable insights that support better business decisions.
+
+### 📌 Exploratory & Predictive Analysis  
+Using **Python** and its rich libraries like **Scikit-learn, Matplotlib, and Seaborn**, I explore patterns in data and apply predictive models to forecast outcomes—adding value to both short-term analysis and long-term planning.
+
+### 📌 Reporting & Communication  
+I craft detailed, data-driven reports that communicate findings clearly to both technical and non-technical stakeholders. My goal is to translate complex results into strategies, making insights accessible and impactful across teams.
 
 ---
 
