@@ -37,7 +37,7 @@ I craft detailed, data-driven reports that communicate findings clearly to both 
 📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/E-commerce%20Sales%20Analysis) 
 
 ### **Loan Prediction**
-**Description:**
+**Description:**Automate loan eligibility prediction using customer data collected from application forms
 **Tools Used:** Python, Machine Learning 
 📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/Finance%20Loan%20Approval%20Prediction) 
 
