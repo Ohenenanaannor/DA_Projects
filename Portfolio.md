@@ -1,5 +1,5 @@
 # 👋 Welcome to My Data Analytics Portfolio!  
-
+## About Me
 Hello, I’m **Ohenenana Sintim Poku Annor**, a passionate and analytical-minded **Data Analyst** with a strong academic background in **Economics** and professional training from **Generation Ghana's Data Analytics Program**. I specialize in transforming raw datasets into meaningful insights that drive strategic decision-making.
 
 My expertise spans across **Power BI, SQL, Excel, and Python**, tools that I use to clean, analyze, and visualize data, crafting interactive dashboards and compelling data stories. Whether it’s uncovering trends, building models, or evaluating business performance, I’m dedicated to delivering **insightful, actionable, and visually impactful solutions**.
@@ -7,7 +7,18 @@ My expertise spans across **Power BI, SQL, Excel, and Python**, tools that I use
 As someone who thrives on solving problems and communicating insights clearly, I enjoy bridging the gap between raw data and business strategy. My approach is data-driven and human-centered—ensuring that complex analytics are translated into stories that are understandable and valuable to stakeholders.
 
 ---
-
+ ## Table of Contents
+ 1. [About Me](#About-Me)
+ 2. [What I Do](#What-I-Do)
+ 3. [Featured Projects](#Featured-Project)
+    - [PowerBI](#PowerBI)
+    - [Excel](#excel)
+    - [SQL](#sql)
+ 4. [Tools & Technologies](#Tools-&-Technologies)
+ 5. [Education](#Education)
+    - [Certificate](#Certificate)
+ 6. [Contact](#Let's-Connect)
+      
 ## 💼 What I Do  
 
 ### 📌 Data Cleaning & Preparation  
