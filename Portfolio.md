@@ -39,7 +39,7 @@ I craft detailed, data-driven reports that communicate findings clearly to both 
 ### **Loan Prediction**
 **Description:**
 **Tools Used:** Python, Machine Learning 
-📌 [View Project]() 
+📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/Finance%20Loan%20Approval%20Prediction) 
 
 ### **Streamflix Movies Insights**
 **Description:**
