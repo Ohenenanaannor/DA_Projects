@@ -9,7 +9,7 @@ As someone who thrives on solving problems and communicating insights clearly, I
 ---
 ## Table of Contents
 1. [About Me](#about-me)
-2. [What I Do](#-what-i-do)
+2. [What I Do](#what-i-do)
 3. [Featured Projects](#featured-projects)
     - [PowerBI](#tourism-analytics-dashboard)
     - [SQL](#sales-analysis)
@@ -20,7 +20,7 @@ As someone who thrives on solving problems and communicating insights clearly, I
 6. [Contact](#lets-connect)
 
       
-## 💼 What I Do  
+##  What I Do  
 
 ### 📌 Data Cleaning & Preparation  
 With hands-on experience in **Python, SQL, Excel**, and **Power BI**, I specialize in transforming messy datasets into clean, structured, and analysis-ready formats. I handle missing data, duplicates, outliers, and inconsistent entries using tools like **Pandas**, **NumPy**, and **Excel functions**, ensuring data reliability.
@@ -36,7 +36,7 @@ I craft detailed, data-driven reports that communicate findings clearly to both 
 
 ---
 
-## 📊 Featured Projects  
+## Featured Projects  
 
 ### **Tourism Analytics Dashboard**  
 **Description:** Analyzing tourism data to uncover trends in visitor numbers, revenue, and customer satisfaction across regions.  
@@ -60,7 +60,7 @@ I craft detailed, data-driven reports that communicate findings clearly to both 
 
 ---
 
-## 🛠️ Tools & Technologies  
+##  Tools & Technologies  
 🔹 **Power BI** – Interactive dashboards & visualizations  
 🔹 **SQL** – Data querying & manipulation  
 🔹 **Excel** – Data cleaning, analysis, and reporting  
@@ -81,7 +81,7 @@ BA Economics (2022)
 🔹	Data Analysis and Scientific writing with Stata (certificate) – KNUST, Economics Department |2021  
 
 
-## 📫 Let's Connect!  
+## Let's Connect!  
 If you're interested in **data analytics, business intelligence, or collaboration**, feel free to reach out!  
 
 📌 **LinkedIn:** [Profile](https://www.linkedin.com/in/ohenenana-annor-sintim-poku)
