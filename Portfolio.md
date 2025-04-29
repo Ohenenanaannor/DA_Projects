@@ -9,7 +9,7 @@ As someone who thrives on solving problems and communicating insights clearly, I
 ---
 ## Table of Contents
 1. [About Me](#about-me)
-2. [What I Do](#what-i-do)
+2. [What I Do](#-what-i-do)
 3. [Featured Projects](#featured-projects)
     - [PowerBI](#tourism-analytics-dashboard)
     - [SQL](#sales-analysis)
