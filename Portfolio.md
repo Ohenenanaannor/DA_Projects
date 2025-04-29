@@ -14,10 +14,10 @@ As someone who thrives on solving problems and communicating insights clearly, I
     - [PowerBI](#tourism-analytics-dashboard)
     - [SQL](#sales-analysis)
     - [Python](#loan-approval-prediction)
-4. [Tools & Technologies](#tools-&-technologies)
+4. [Tools & Technologies](#tools--technologies)
 5. [Education](#education)
     - [Certificate](#certificates)
-6. [Contact](#lets-connect!)
+6. [Contact](#lets-connect)
 
       
 ## 💼 What I Do  
