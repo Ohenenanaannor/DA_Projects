@@ -12,12 +12,12 @@ As someone who thrives on solving problems and communicating insights clearly, I
 2. [What I Do](#what-i-do)
 3. [Featured Projects](#featured-projects)
     - [PowerBI](#tourism-analytics-dashboard)
-    - [Excel](#sales-analysis)
-    - [SQL](#loan-approval-prediction)
-4. [Tools & Technologies](#tools--technologies)
+    - [SQL](#sales-analysis)
+    - [Python](#loan-approval-prediction)
+4. [Tools & Technologies](#tools-&-technologies)
 5. [Education](#education)
     - [Certificate](#certificates)
-6. [Contact](#lets-connect)
+6. [Contact](#lets-connect!)
 
       
 ## 💼 What I Do  
