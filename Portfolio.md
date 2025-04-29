@@ -7,17 +7,18 @@ My expertise spans across **Power BI, SQL, Excel, and Python**, tools that I use
 As someone who thrives on solving problems and communicating insights clearly, I enjoy bridging the gap between raw data and business strategy. My approach is data-driven and human-centered—ensuring that complex analytics are translated into stories that are understandable and valuable to stakeholders.
 
 ---
- ## Table of Contents
- 1. [About Me](#About-Me)
- 2. [What I Do](#What-I-Do)
- 3. [Featured Projects](#Featured-Project)
-    - [PowerBI](#PowerBI)
-    - [Excel](#excel)
-    - [SQL](#sql)
- 4. [Tools & Technologies](#Tools-&-Technologies)
- 5. [Education](#Education)
-    - [Certificate](#Certificate)
- 6. [Contact](#Let's-Connect)
+## Table of Contents
+1. [About Me](#about-me)
+2. [What I Do](#💼-What-I-Do)
+3. [Featured Projects](#featured-projects)
+    - [PowerBI](#1️⃣-tourism-analytics-dashboard)
+    - [Excel](#sales-analysis)
+    - [SQL](#streamflix-movies-insights)
+4. [Tools & Technologies](#-tools--technologies)
+5. [Education](#education)
+    - [Certificate](#certificates)
+6. [Contact](#-lets-connect)
+
       
 ## 💼 What I Do  
 
