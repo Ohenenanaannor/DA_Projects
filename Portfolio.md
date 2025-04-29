@@ -9,15 +9,15 @@ As someone who thrives on solving problems and communicating insights clearly, I
 ---
 ## Table of Contents
 1. [About Me](#about-me)
-2. [What I Do](#💼-What-I-Do)
+2. [What I Do](#what-i-do)
 3. [Featured Projects](#featured-projects)
-    - [PowerBI](#1️⃣-tourism-analytics-dashboard)
+    - [PowerBI](#tourism-analytics-dashboard)
     - [Excel](#sales-analysis)
-    - [SQL](#streamflix-movies-insights)
-4. [Tools & Technologies](#-tools--technologies)
+    - [SQL](#loan-approval-prediction)
+4. [Tools & Technologies](#tools--technologies)
 5. [Education](#education)
     - [Certificate](#certificates)
-6. [Contact](#-lets-connect)
+6. [Contact](#lets-connect)
 
       
 ## 💼 What I Do  
@@ -38,7 +38,7 @@ I craft detailed, data-driven reports that communicate findings clearly to both 
 
 ## 📊 Featured Projects  
 
-### 1️⃣ **Tourism Analytics Dashboard**  
+### **Tourism Analytics Dashboard**  
 **Description:** Analyzing tourism data to uncover trends in visitor numbers, revenue, and customer satisfaction across regions.  
 **Tools Used:** Power BI, Excel  
 📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/Tourism_Analysis) 
@@ -48,7 +48,7 @@ I craft detailed, data-driven reports that communicate findings clearly to both 
 **Tools Used:** Excel, MySQL
 📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/E-commerce%20Sales%20Analysis) 
 
-### **Loan Prediction**
+### **Loan Approval Prediction**
 **Description:**Automate loan eligibility prediction using customer data collected from application forms
 **Tools Used:** Python, Machine Learning 
 📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/Finance%20Loan%20Approval%20Prediction) 
