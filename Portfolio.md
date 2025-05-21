@@ -53,10 +53,11 @@ I craft detailed, data-driven reports that communicate findings clearly to both 
 **Tools Used:** Python, Machine Learning 
 📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/Finance%20Loan%20Approval%20Prediction) 
 
-### **Streamflix Movies Insights**
-**Description:**
-**Tools Used:** SQL, Power BI
-📌 [View Project]() 
+### **Tech-Services Ghana Analysis**
+**Description:** Conducted a data-driven analysis of an IT consulting firm's operations to uncover insights on client retention, project efficiency, service performance, and customer satisfaction.
+
+**Tools Used:** Excel, Power BI
+📌 [View Project](https://github.com/Ohenenanaannor/DA_Projects/tree/master/Tech-Services%20Analysis) 
 
 ---
 
