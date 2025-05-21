@@ -58,5 +58,8 @@ This project uses **sample operational data from TechServices Ghana** to simulat
 2. Use filters to explore performance by service type or client group.  
 3. Review the visual insights and recommendation section to inform business strategies.
 
+## Dashboard Overview 
+![Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/Tech-Services%20Analysis/images/TechServices%20image.png)
+
 📊 **View Dashboard & Project Files:**  
 🔗 [Tech-Services Power BI Dashboard & Report](https://github.com/Ohenenanaannor/DA_Projects/tree/master/Tech-Services%20Analysis)
