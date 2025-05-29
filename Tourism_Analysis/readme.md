@@ -51,14 +51,14 @@ The dashboard utilizes **sample tourism data** to replicate real-world scenarios
 ---
 
 ## Dashboard Overview 
-![Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/Tourism_Analysis/Images/Dashboard.png)
+![Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/Tourism_Analysis/Images/Screenshot%202.png)
 
 ## 📎 How to Use This Report
 1. Download the Power BI report or open it directly.  
 2. Use filters to explore region-specific trends and seasonal insights.  
 3. Review visual summaries and insights for data-backed decision-making.
 
-🔗 **View Dashboard & Project Files:** [Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/Toursim_Analytics_Power_BI/Tourism_Ohenenana%20Sintim%20Poku%20Annor.pbix)
+🔗 **View Dashboard & Project Files:** [Dashboard](https://github.com/Ohenenanaannor/DA_Projects/blob/master/Tourism_Analysis/Tourism_Dashboard.pbix)
 
 ---
 
