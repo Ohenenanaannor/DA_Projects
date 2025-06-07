@@ -1,11 +1,11 @@
 # 🏦 Loan Approval Prediction
 
-This project aims to predict whether a loan application will be approved based on historical applicant data using Machine Learning techniques.
+This project aims to predict whether a loan application will be approved based on applicant data using Machine Learning techniques.
 
 ---
 
 ## 📂 Project Structure
-- `loan_Prediction.ipynb` : Jupyter Notebook containing full analysis, preprocessing, model building, evaluation, and insights.
+- `loan_Prediction.ipynb` : Jupyter Notebook containing full analysis, preprocessing, model building, evaluation, deployment and insights.
 
 ---
 
@@ -54,38 +54,40 @@ The goal is to automate the loan approval process for a financial institution, b
 ## 📈 Model Evaluation
 
 ### Validation Results:
-- **Validation Accuracy:** `86.18%`
+- **Validation Accuracy:** `88.62%`
 
 ### Classification Report:
 
 | Class | Precision | Recall | F1-Score | Support |
 |:-----:|:---------:|:------:|:--------:|:-------:|
-|   0   |   0.96    |  0.58  |   0.72   |   38    |
-|   1   |   0.84    |  0.99  |   0.91   |   85    |
+|   0   |   0.93    |  0.68  |   0.79   |   38    |
+|   1   |   0.87    |  0.98  |   0.92   |   85    |
 
-- **Macro Average F1-Score:** `0.81`
-- **Weighted Average F1-Score:** `0.85`
+- **Macro Average F1-Score:** `0.86`
+- **Weighted Average F1-Score:** `0.88`
 
 ### Confusion Matrix:
 
 |        | Predicted: 0 | Predicted: 1 |
 |--------|--------------|--------------|
-| Actual: 0 |     22       |     16       |
-| Actual: 1 |      1       |     84       |
+| Actual: 0 |     26       |     12       |
+| Actual: 1 |      2       |     83       |
 
 ---
 
 ## 📌 Key Findings
 - Good Credit History significantly increases loan approval chances.
-- Higher ApplicantIncome correlates with higher loan approval rates.
 - Logistic Regression provided a solid baseline performance.
 - Adjusting threshold helped improve recall without severely impacting precision.
 
 ---
 
+## 📌 Model Deployment
+- Deploy model via a web app (Streamlit)
+
+---
+
 ## 🚀 Future Work
-- Try more advanced models like Random Forest, XGBoost, or Gradient Boosting.
-- Perform hyperparameter tuning (GridSearchCV, RandomizedSearchCV).
 - Engineer new features like Debt-to-Income Ratio for better predictions.
 - Cross-validation to enhance model generalization.
 
@@ -96,7 +98,7 @@ The goal is to automate the loan approval process for a financial institution, b
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-Learn
-
+- Joblib
 ---
 
 ## 📬 Contact
