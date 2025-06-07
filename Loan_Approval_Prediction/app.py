@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Load model and threshold
-model_bundle = joblib.load('loan_eligibility_model.pkl')
+model_bundle = joblib.load('Loan_Approval_Prediction/loan_eligibility_model.pkl')
 model = model_bundle["pipeline"]
 threshold = model_bundle["threshold"]
 
